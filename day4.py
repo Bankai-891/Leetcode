@@ -19,4 +19,4 @@ class Solution(object):
         return merged
 
 myobj = Solution()
-print(myobj.mergeAlternately("abcd", "pq")) # Output: "apbqcd"
+print(myobj.mergeAlternately("abcd", "pq")) 
